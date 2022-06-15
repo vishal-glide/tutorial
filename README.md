@@ -1,6 +1,8 @@
 # Django REST Framework Tutorial
 
-# TODOs
+My take on the DRF tutorial
+
+## Reading / Understanding Points
 
 - Change to PostgreSQL from SQLite
 - Read about django.contrib.auth.models
